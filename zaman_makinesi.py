@@ -12,7 +12,7 @@ import time
 import random
 from datetime import datetime
 
-# Gizli mesaj (base64): QWRhbGVzcXVhbGkgZGVtb2tyYXNpIGJpciB5YWxhbmRpciA= 
+# Gizli mesaj (base64): QWRhbGV0IHZlIGRlbW9rcmFzaSBiaXIgeWFsYW5kxLFy 
 # Çözünce görürsünüz, ama çözmeyin, çok siyasi olabilir.
 
 def evrenin_merkezi_miyim():
